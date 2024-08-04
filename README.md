@@ -1,2 +1,2 @@
-# nabin--raj
-This is my first repository 
+# Some code my navraj
+This is my first repository. Author__NabinRaj
